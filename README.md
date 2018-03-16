@@ -1,3 +1,5 @@
+
+
 #### 一、UseCase Diagrams（用例图）
 
 >一般的用例图包含的模型元素有系统、行为者、用例及用例之间的关系。--《软件工程导论（第5版）》P224
@@ -168,12 +170,49 @@ UML中类的图形符为长方形，用两条横线把长方形分成上、中�
 
 #### 学习
 
-Diagram['daɪə,græm]  
+Diagram ['daɪə,græm]  
 n. 图表；[数] 图解（diagram的复数）；略图  
 v. 用图解释；作…的图解（diagram的三单形式）
 
-abstract  
-抽象
+abstract ['æbstrækt]  
+n. 摘要；抽象；抽象的概念  
+adj. 抽象的；深奥的  
+vt. 摘要；提取；使……抽象化；转移(注意力、兴趣等)；使心不在焉  
+vi. 做摘要；写梗概  
+
+Association [[əˌsəʊsɪˈeɪʃn]]  
+n. 协会，联盟，社团；联合；联想
+
+Aggregation [,ægrɪ'geʃən]  
+n. [地质][数] 聚合，聚集；聚集体，集合体
+
+Composition [,kɑmpə'zɪʃən]    
+n. 作文，作曲；[材] 构成；合成物
+
+Generalization [,dʒɛnrələ'zeʃən]    
+n. 概括；普遍化；一般化
+
+Dependency [dɪ'pɛndənsi]  
+n. 属国；从属；从属物
+
+Realization [,riələ'zeʃən]  
+n. 实现；领悟
+
+Statechart
+
+Sequence ['sikwəns]  
+n. [数][计] 序列；顺序；续发事件
+vt. 按顺序排好
+
+Collaboration [kə,læbə'reʃən]  
+n. 合作；勾结；通敌
+
+Component [kəm'ponənt]  
+adj. 组成的，构成的
+n. 成分；组件；[电子] 元件
+
+Deployment [dɪ'plɔɪmənt]  
+n. 调度，部署
 
 
 
